@@ -3,9 +3,6 @@
 ## Table of contents
 - [DataSet](#dataset)
 ## DataSet
-For this project I'm gonna use the following dataset:<br>
-https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html#sklearn.datasets.fetch_california_housing
-
 This dataset is from a library in **Scikit Learn**.
 
 ### Data Set Characteristics:
