@@ -13,21 +13,24 @@ This dataset is from a library in **Scikit Learn**.
 - **Number of Attributes**: 8 numeric, predictive attributes and the target
 
 - **Attribute Information**:
-    - MedInc median income in block group
+    - **MedInc** median income in block group
 
-    - HouseAge median house age in block group
+    - **HouseAge** median house age in block group
 
-    - AveRooms average number of rooms per household
+    - **AveRooms** average number of rooms per household
 
-    - AveBedrms average number of bedrooms per household
+    - **AveBedrms** average number of bedrooms per household
 
-    - Population block group population
+    - **Population** block group population
 
-    - AveOccup average number of household members
+    - **AveOccup** average number of household members
 
-    - Latitude block group latitude
+    - **Latitude** block group latitude
 
-    - Longitude block group longitude
+    - **Longitude** block group longitude
+    - **MedHouseVal** is the median house value expressed in hundreds of thousands of dollars ($100,000).
+
+
 
 - **Missing Attribute Values**: None
 
